@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/1000s Cropped.jpg
 title: "Toy Shop"
 date: 2022
 published: true
