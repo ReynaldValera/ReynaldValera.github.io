@@ -10,26 +10,23 @@
     "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ReynaldValera", "url": "http://github.com/ReynaldValera" },
-      { "network": "linkedin", "username": "Reynald Valera", "url": "http://linkedin.com/in/reynald-valera" },
-      { "network": "", "username": "", "url": "" },
-      { "network": "", "username": "", "url": "" }
+      { "network": "linkedin", "username": "Reynald Valera", "url": "http://linkedin.com/in/reynald-valera" }
     ]
   },
   "interests": [
     { "name": "Games" },
     { "name": "Watching Anime" },
-    { "name": "Programming" },
-    { "name": "" },
-    { "name": "" }
+    { "name": "Programming" }
+
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "", "Git/GitHub", "","" ]
+      "keywords": [ "MacOS", "", "Git/GitHub"]
     }
   ],
   "education": [
