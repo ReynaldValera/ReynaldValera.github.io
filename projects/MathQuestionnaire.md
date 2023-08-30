@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/MathQuestionnaire.png
+image: img/MathQuestionnaire.jpg
 title: "Math Questionnaire"
 date: 2023
 published: true
