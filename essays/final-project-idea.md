@@ -9,7 +9,7 @@ labels:
   - Meteor
 ---
 <h1>Hold customers accountable with our Reusable Takeout app</h1>
-<h4>By: </h4>
+<h4>By: Reynald Valera, Jordan Calantoc, Carolina Taylor, Elijah Davis, Micah Schoefield</h4>
 <h2>Overview</h2>
 <p>The Problem: A non-profit organization operating a reusable takeout container program to replace single-use plates/clamshells at fast-moving events are losing 20-30% of containers to folks who want to take them home. This makes the program unsustainable and causes a financial problem for te company.
 
